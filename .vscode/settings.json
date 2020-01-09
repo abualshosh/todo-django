@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/ashraf/.conda/envs/django-todo/bin/python",
+    "python.formatting.provider": "black"
+}
